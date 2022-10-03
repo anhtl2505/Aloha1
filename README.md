@@ -5,7 +5,7 @@
 ### Link: https://jar-download.com/artifact-search/selenide
 ### Official Page: https://selenide.org/
 ### RUN
-#### Follow: Aloha\src\test\java\check_SignIn.java to see test script
+#### Follow: Aloha\src\test\java\scenario\check_SignIn.java to see test script
 #### Follow: Aloha\build\reports\tests folder to check .html and .png each time run test or failed cases
 #### 1/Just click the icon play display next to the annotation @Test to run specific test cases 
 #### 2/Just click the icon play display next to the main function to run all test cases. 
